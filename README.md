@@ -15,7 +15,7 @@ This repository contains an interactive **Power BI dashboard** analyzing Indian 
 
 ## Files in this repository
 - `IPL Analysis (2008-2025).pbix` → Power BI dashboard file  
-- *(Optional)* `ipl_data_sample.csv` → A small sample of the dataset used (full dataset is too large to host here)
+
 
 > **Note:**  
 > The full dataset is not included in this repository due to size limitations.  
@@ -44,5 +44,4 @@ https://github.com/Suhas-S2004/IPL-Analysis-2008-2025-/blob/main/Screenshot%20.p
 
 ---
 
-## Author
-Created by [Your Name] – *Data Analysis and Visualization using Power BI*
+
