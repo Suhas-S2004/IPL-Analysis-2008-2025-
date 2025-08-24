@@ -39,7 +39,7 @@ This repository contains an interactive **Power BI dashboard** analyzing Indian 
 
 ## Preview
 
-
+https://github.com/Suhas-S2004/IPL-Analysis-2008-2025-/blob/main/Screenshot%20.png
 
 
 ---
