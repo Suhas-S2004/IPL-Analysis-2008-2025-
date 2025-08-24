@@ -18,8 +18,8 @@ This repository contains an interactive **Power BI dashboard** analyzing Indian 
 
 
 > **Note:**  
-> The full dataset is not included in this repository due to size limitations.  
-> You can download the complete dataset from [link-to-source-or-drive].
+> You can download the complete dataset from IPL Data.zip.
+> The images is in Images Used.zip file.
 
 ---
 
